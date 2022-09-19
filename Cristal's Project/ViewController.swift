@@ -21,7 +21,7 @@ class ViewController: UIViewController {
 
     var result:Float = 0.0
     var operation:Operations = .NONE
-    var value:String = ""
+    var value:String = " "
     var numeros = [Int]()
     
     override func viewDidLoad() {
